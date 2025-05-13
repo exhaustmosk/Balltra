@@ -1,0 +1,9 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"MediaPipeSpeech": "UnrealEditor-MediaPipeSpeech.dll",
+		"MediaPipeSpeechEditor": "UnrealEditor-MediaPipeSpeechEditor.dll",
+		"MediaPipeSpeechSound": "UnrealEditor-MediaPipeSpeechSound.dll"
+	}
+}

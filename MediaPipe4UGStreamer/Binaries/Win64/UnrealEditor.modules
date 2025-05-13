@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"MediaPipeGStreamer": "UnrealEditor-MediaPipeGStreamer.dll",
+		"MediaPipeGStreamerEditor": "UnrealEditor-MediaPipeGStreamerEditor.dll"
+	}
+}
